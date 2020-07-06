@@ -2,6 +2,10 @@
 
 Built a real-time analytics dashboard to visualize the trending hashtags at a given location by using real time streaming twitter API to get data.
 
+#### Apache Kafka 
+Kafka is a distributed streaming platform that is used publish and subscribe to streams of records. Kafka is used for fault tolerant storage. Kafka replicates topic log partitions to multiple servers. Kafka is designed to allow your apps to process records as they occur. It is a publish subscribe durable messaging system which allows decoupling of data streams.
+#### Apache Spark
+Apache Spark is a fast general purpose cluster computing system for large scale data processing. It is suitable for both batch based and real-time processing. It is a single unified framework which gives flexibility. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.
 
 <br>
 
